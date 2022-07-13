@@ -4,7 +4,7 @@ from homeassistant.const import TEMP_CELSIUS, PERCENTAGE, CONCENTRATION_MICROGRA
 
 from .ds_air_service.ctrl_enum import EnumSensor
 
-DOMAIN = "ds_air"
+DOMAIN = "ds_airrr"
 CONF_GW = "gw"
 DEFAULT_HOST = "192.168.1."
 DEFAULT_PORT = 8008
